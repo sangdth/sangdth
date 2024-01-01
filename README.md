@@ -9,3 +9,4 @@
 
 - I'm Sang.
 - I use keyboard to complain about Javascript frameworks such as Next.js.
+- I build micro SaaS apps like https://pika.menu, that help small and medium restaurant owners can turn their Google Sheets file into digital menus effortlessly.
