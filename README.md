@@ -11,5 +11,5 @@ I hope the boilerplate and other materials I created will help you in reaching y
 
 ## Things I build:
 
-- Pika Menu, https://pika.menu, a micro SaaS app thats help restaurant owners can turn their Google Sheets file into digital menus effortlessly.
+- [**Pika Menu**](https://pika.menu/), a micro SaaS app thats help restaurant owners can turn their Google Sheets file into digital menus effortlessly.
 - To be continued.
