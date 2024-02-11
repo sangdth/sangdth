@@ -9,6 +9,7 @@ This joy is the driving force behind my creation of a collection of starter temp
 
 ## Projects:
 
+- [**Voi**](htttps://github.com/websitesieutoc/voi), the minimalist self-hosted customer feedback app, heavily inspired by Canny.
 - [**SyvaHire**](https://github.com/websitesieutoc/syva), a self-hosted app that allows you chat with interview videos, help your company know candidates better.
 - [**Pika Menu**](https://pika.menu/), a micro SaaS app thats help restaurants turn their Google Sheets files into digital menus effortlessly.
 - [Sieutoc Platform](https://github.com/websitesieutoc/platform), a Nextjs Starter Kit meant to facilitate a quicker SaaS launch.
