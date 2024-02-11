@@ -5,7 +5,9 @@
 
 I enjoy creating digital products, trying out new ideas, and passing on the knowledge I gain to others.
 
-This joy is the driving force behind my creation of a collection of starter templates and the development of open-source, self-hosted applications. I hope that the materials I've created will act as catalysts, accelerating you toward your objectives quickly and effectively.
+This joy is the driving force behind my creation of a collection of starter templates and the development of open-source, self-hosted applications.
+
+I hope that the materials I've created will act as catalysts, accelerating you toward your objectives quickly and effectively.
 
 ## Projects:
 
