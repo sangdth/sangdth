@@ -12,7 +12,9 @@ I hope that the materials I've created will act as catalysts, accelerating you t
 ## Projects:
 
 - [**Voi**](https://github.com/getsieutoc/voi), the minimalist self-hosted customer feedback app, heavily inspired by Canny.
-- [**SyvaHire**](https://github.com/websitesieutoc/syva), a self-hosted app that allows you chat with interview videos, help your company know candidates better.
+- [**Homie**](https://github.com/getsieutoc/homie), keep your domains tight, got your back like a homie in a fight.
+- [**Auris**](https://github.com/getsieutoc/auris), music platform for indie artists.
+- [**SyvaHire**](https://github.com/getsieutoc/syva), a self-hosted app that allows you chat with interview videos, help your company know candidates better.
 - [**Pika Menu**](https://pika.menu/), a micro SaaS app thats help restaurants turn their Google Sheets files into digital menus effortlessly.
 - [**Platform**](https://github.com/getsieutoc/platform), a Nextjs Starter Kit meant to facilitate a quicker SaaS launch.
 - [**Ninjutsu**](https://github.com/getsieutoc/ninjutsu), [**Taijutsu**](https://github.com/getsieutoc/taijutsu) and [**Genjutsu**](https://github.com/getsieutoc/genjutsu), 3 highly opiniate starter templates that cover most of your needs.
