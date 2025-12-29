@@ -16,7 +16,7 @@ I hope that the materials I've created will act as catalysts, accelerating you t
 - [**Platform**](https://github.com/getsieutoc/platform), a Nextjs Starter Kit meant to facilitate a quicker SaaS launch.
 - [**Ninjutsu**](https://github.com/getsieutoc/ninjutsu), [**Taijutsu**](https://github.com/getsieutoc/taijutsu) and [**Genjutsu**](https://github.com/getsieutoc/genjutsu), 3 highly opiniate starter templates that cover most of your needs.
 
-## Failed (or Haven't Started) Projects:
+## Failed Projects:
 
 - **Selling Stingless-bee Honey**, not related to tech, just selling.
 - **DearMama**, a smart bracelet that can self-charge, designed for the elderly.
