@@ -11,6 +11,7 @@ I hope that the materials I've created will act as catalysts, accelerating you t
 
 ## Open Source Projects:
 
+- [**lodo**](https://github.com/sangdth/lodo), simple tool for manage local domain for development, use it like `lodo dev` instead of `pnpm dev`
 - [**Voi**](https://github.com/getsieutoc/voi), the minimalist self-hosted customer feedback app, heavily inspired by Canny.
 - [**Homie**](https://github.com/getsieutoc/homie), keep your domains tight, got your back like a homie in a fight.
 - [**Platform**](https://github.com/getsieutoc/platform), a Nextjs Starter Kit meant to facilitate a quicker SaaS launch.
