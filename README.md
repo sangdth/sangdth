@@ -11,6 +11,7 @@ I hope that the materials I've created will act as catalysts, accelerating you t
 
 ## Open Source Projects:
 
+- [**jarvis**](https://github.com/sangdth/jarvis), a thin harness layer for voice personal assisstant that knows how to work with other agents
 - [**lodo**](https://github.com/sangdth/lodo), simple tool for manage local domain for development, use it like `lodo dev` instead of `pnpm dev`
 - [**Voi**](https://github.com/getsieutoc/voi), the minimalist self-hosted customer feedback app, heavily inspired by Canny.
 - [**Homie**](https://github.com/getsieutoc/homie), keep your domains tight, got your back like a homie in a fight.
